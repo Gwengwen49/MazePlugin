@@ -1,0 +1,4 @@
+name: MazePlugin
+version: '${project.version}'
+main: fr.gwengwen49.mazeplugin.MazePlugin
+api-version: 1.18
